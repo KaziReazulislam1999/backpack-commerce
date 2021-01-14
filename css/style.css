@@ -25,13 +25,13 @@ h3{
     font-size: 13px;
     font-weight:500;
     
-    background-color: #3b4ce6 !important;
+    background-color: #2A1E59 !important;
     color: #fff;
     border-radius: 10px;
     
 }
 .btn-custom:hover{
-       background-color: #1f34f0;
+       background-color: #2A1E59;
 }
 /* button-end*/
 
